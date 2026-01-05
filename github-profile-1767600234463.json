@@ -1,0 +1,94 @@
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-01-05T08:03:54.462Z",
+  "profile": {
+    "title": "Vicki",
+    "subtitle": "A passionate developer from around the world",
+    "currentWork": "AI-full-stack and Data analysis\n",
+    "currentLearn": "",
+    "collaborateOn": "Like-minded friends\n",
+    "helpWith": "Looking for AI startup opportunities\n",
+    "ama": "",
+    "contact": "yujin5563219452@outlook.com",
+    "funFact": "",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "Uygniqoar",
+    "dev": "",
+    "linkedin": "",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "@Vic-jin",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "raoqingyu",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "docker",
+    "javascript",
+    "jupyter",
+    "matlab",
+    "nodejs",
+    "postgresql",
+    "python",
+    "vuejs"
+  ]
+}
