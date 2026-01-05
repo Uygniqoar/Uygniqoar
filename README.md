@@ -11,7 +11,7 @@
 - 🤝 I'm looking for help with **Looking for AI startup opportunities
 **
 
-- 📫 How to reach me **yujin5563219452@outlook.com**
+- 📫 How to reach me **yujin5563219452@outlook.com**or**vx:laplacesy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
