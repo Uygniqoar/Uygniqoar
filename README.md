@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vicki
 
-### A passionate developer from China
+### A passionate developer 
 
 - 🔭 I'm currently working on **AI-full-stack and Data analysis
 **
