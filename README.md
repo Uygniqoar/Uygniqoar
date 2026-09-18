@@ -11,13 +11,14 @@ Building AI systems across Generative Search, RAG, Multi-Agent Workflows and Dat
 ---
 
 ## About Me
-
+* 📧 Email: **[yujin5563219452@outlook.com](mailto:yujin5563219452@outlook.com)**
+* 💬 WeChat: **laplacesy**
+  
 - 🔭 Working on **AI full-stack development, GEO and enterprise data analytics**
 - 🧠 Researching **Generative Search, RAG, AI Agents and LLM applications**
 - 🏗️ Building systems from **data pipelines and knowledge bases to agent workflows and evaluation**
 - 📊 Experienced in **multi-model monitoring, citation analysis, brand knowledge governance and GEO evaluation**
 - 🤝 Open to **AI open-source collaboration, research projects and startup opportunities**
-- 📍 Based in Chengdu, China
 
 ## Current Roles
 
@@ -52,7 +53,6 @@ My work focuses on turning business and research problems into measurable AI wor
 ## Selected Experience & Achievements
 
 * Contributed to open-source Agent projects with **1K+ GitHub Stars**
-* Built **DeepData**, an enterprise AI data analysis and decision-support system
 * Developed GEO workflows covering **question-set design, multi-model monitoring, fact verification, citation analysis and performance retesting**
 * Achieved an average **80% stable citation rate** in selected GEO evaluation scenarios
 * Contributed to the white paper
